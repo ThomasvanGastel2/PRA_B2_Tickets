@@ -10,4 +10,6 @@
   <Sensor08>False</Sensor08>
   <Sensor09>False</Sensor09>
   <Sensor10>True</Sensor10>
+  <Sensor11>True</Sensor11>
+  <Sensor12>True</Sensor12>
 </Sensoren>
