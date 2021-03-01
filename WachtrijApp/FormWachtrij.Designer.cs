@@ -126,8 +126,10 @@
         private System.Windows.Forms.Label labelWachttijd;
         private System.Windows.Forms.Label labelWachttijdMelding;
         private System.Windows.Forms.PictureBox AttractieLogo;
+        private System.Windows.Forms.Label labelKar3;
         private System.Windows.Forms.Label labelKar2;
         private System.Windows.Forms.Label labelKar1;
+
     }
 }
 
